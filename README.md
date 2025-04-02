@@ -7,7 +7,7 @@
 - 
 📫 **Contact**:
 
-- 🌐 [My Portfolio]([https://matias-videla-resume.vercel.app/](https://myportoflio-fawn.vercel.app/))
+- 🌐 [My Portfolio](https://myportoflio-fawn.vercel.app/)
 - 🌐 [My Resume Online ](https://matias-videla-resume.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/matias-videla/)
 <!--
