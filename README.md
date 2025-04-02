@@ -1,10 +1,20 @@
-## Hi there 👋
+# 👋 Hello! I'm Matías Videla
 
+🚀 Software developer passionate about **Next.js**, **NodeJS**, and **React**. 
+
+🔭 I’m currently learning backend technologies as **Java**, **Spring**, **NodeJS** and manage databases. Also learning data analytics. 
+- 👯 I’m looking to collaborate on projects as a frontend engineer, manage teams, organize tasks and deliver it ensuring high quality performance deliverables.
+- 
+📫 **Contact**:
+
+- 🌐 [My Portfolio]([https://matias-videla-resume.vercel.app/](https://myportoflio-fawn.vercel.app/))
+- 🌐 [My Resume Online ](https://matias-videla-resume.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/matias-videla/)
 <!--
 **VidelaMatias/VidelaMatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
